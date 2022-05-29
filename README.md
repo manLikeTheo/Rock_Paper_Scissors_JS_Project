@@ -1,1 +1,5 @@
-# Rock_Paper_Scissors_JS_Project
+# Rock_Paper_Scissors_JS_Proje
+Building the "Rock-Paper-Scissors" game using the skills i've learnt following "The Odin Project" foundations course.
+I must say this is a very simple and "well-structured" course, so kudos to the guys that put this together.
+For now, we're only going to play this game in the console so we only get to test our javascript logic in the browser console
+Look forward to improving this project in the no distant time as i continue with the foundations course
